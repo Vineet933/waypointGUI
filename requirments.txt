@@ -1,0 +1,10 @@
+# Core GUI + video
+PyQt5>=5.15
+opencv-python>=4.7
+numpy>=1.24
+
+# Optional: YOLO object detection (comment out if not needed on the Pi)
+ultralytics>=8.0.0
+
+# Raspberry Pi GPIO (only needed on the Pi)
+RPi.GPIO>=0.7.1
